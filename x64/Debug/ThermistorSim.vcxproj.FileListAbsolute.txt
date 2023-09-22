@@ -1,1 +1,0 @@
-C:\Users\Mike\Documents\Git\VisualStudio2022\ThermistorSim\x64\Debug\ThermistorSim.exe
