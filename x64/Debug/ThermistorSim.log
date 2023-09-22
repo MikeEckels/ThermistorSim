@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Thermistor.cpp
+C:\Users\Mike\Documents\Git\VisualStudio2022\ThermistorSim\Thermistor.cpp(29,64): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  Generating Code...
+  ThermistorSim.vcxproj -> C:\Users\Mike\Documents\Git\VisualStudio2022\ThermistorSim\x64\Debug\ThermistorSim.exe
